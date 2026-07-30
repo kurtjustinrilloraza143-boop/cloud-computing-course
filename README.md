@@ -1,2 +1,4 @@
-# cloud-computing-course
-Repository for course activities, notes, and projects in Cloud Computing
+Name: Kurt Justin Rilloraza
+Course/Section:BSIT 4-H
+Instructor:Jenkielyn Torres 
+School Year:2026-2027
